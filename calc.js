@@ -1,5 +1,3 @@
-<script>
-
    var num_1 = parseFloat(prompt("Enter the first number"));
    var num_2 = parseFloat(prompt("Enter the second number"));
    var operator = prompt("Enter the operator");
@@ -22,6 +20,3 @@
        result = "Invalid Input"
    }
    console.log(result)
-   
-
-</script>
