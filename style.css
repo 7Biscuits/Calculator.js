@@ -1,0 +1,55 @@
+*{
+    margin: 10;
+    padding: 0;
+}
+
+.above {
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    display: flex;
+    margin:50;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.below {
+    padding: 2%;
+    justify-content: center;
+    width: 80%;
+    display: flex;
+    margin:50;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+.js {
+    margin:50;
+    padding-left: 30%;
+    width: 95%;
+    align-items: center;
+    
+}
+.js-text {
+    margin:50;
+    padding-left: 30%;
+    width: 95%;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.reload {
+    margin:50;
+    padding-left: 30%;
+    width: 95%;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.js-reload {
+    margin:auto;
+    padding-left: none;
+    width: 20%;
+    align-items: center;
+}
